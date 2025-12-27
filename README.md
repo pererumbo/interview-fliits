@@ -8,7 +8,16 @@ Este repositorio contiene el entorno de configuración para la entrevista técni
 
 ## Requisitos previos
 
-### 1. Docker
+### 1. IDE de SQL
+
+Necesitarás un IDE o cliente de SQL para conectarte a la base de datos PostgreSQL durante la entrevista.
+
+Algunas opciones recomendadas:
+- **DBeaver** (gratuito, multiplataforma): [https://dbeaver.io/](https://dbeaver.io/)
+- **DataGrip** (de pago, con prueba gratuita): [https://www.jetbrains.com/datagrip/](https://www.jetbrains.com/datagrip/)
+- **pgAdmin** (gratuito, específico para PostgreSQL): [https://www.pgadmin.org/](https://www.pgadmin.org/)
+
+### 2. Docker
 
 Asegúrate de tener Docker instalado y en funcionamiento.
 
@@ -21,7 +30,7 @@ Verifica la instalación:
 docker --version
 ```
 
-### 2. Python 3.12
+### 3. Python 3.12
 
 Necesitarás Python 3.12 instalado en tu sistema.
 
@@ -42,7 +51,7 @@ Verifica la instalación:
 python3.12 --version
 ```
 
-### 3. Poetry
+### 4. Poetry
 
 Poetry es el gestor de dependencias que utilizamos.
 
