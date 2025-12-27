@@ -1,8 +1,8 @@
-# Fliits - Technical Interview Setup
+# Fliits - DS Technical Interview Setup
 
 ¡Bienvenido/a! 🎉
 
-Este repositorio contiene el entorno de configuración para la entrevista técnica en **FLiiTS**. Por favor, sigue los pasos a continuación **antes de la entrevista** para asegurarte de que todo funciona correctamente.
+Este repositorio contiene el entorno de configuración para la entrevista técnica para el rol de Data Scientist en **FLiiTS**. Por favor, sigue los pasos a continuación **antes de la entrevista** para asegurarte de que todo funciona correctamente.
 
 ---
 
